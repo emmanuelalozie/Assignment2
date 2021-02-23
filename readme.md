@@ -1,0 +1,29 @@
+   mysite/db.sqlite3
+   mysite/helloworld/.urls.py.un~
+   mysite/helloworld/.views.py.un~
+   mysite/helloworld/__init__.py
+   mysite/helloworld/__pycache__/__init__.cpython-39.pyc
+   mysite/helloworld/__pycache__/urls.cpython-39.pyc
+   mysite/helloworld/__pycache__/views.cpython-39.pyc
+   mysite/helloworld/admin.py
+   mysite/helloworld/apps.py
+   mysite/helloworld/migrations/__init__.py
+   mysite/helloworld/models.py
+   mysite/helloworld/tests.py
+   mysite/helloworld/urls.py
+   mysite/helloworld/urls.py~
+   mysite/helloworld/views.py
+   mysite/helloworld/views.py~
+   mysite/manage.py
+   mysite/mysite/.urls.py.un~
+   mysite/mysite/__init__.py
+   mysite/mysite/__pycache__/__init__.cpython-39.pyc
+   mysite/mysite/__pycache__/settings.cpython-39.pyc
+   mysite/mysite/__pycache__/urls.cpython-39.pyc
+   mysite/mysite/__pycache__/wsgi.cpython-39.pyc
+   mysite/mysite/asgi.py
+   mysite/mysite/settings.py
+   mysite/mysite/urls.py
+   mysite/mysite/urls.py~
+	new file:   mysite/mysite/wsgi.py
+
